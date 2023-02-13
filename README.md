@@ -1,16 +1,38 @@
-### Hi there 👋
+<h1> Olá, sou o Cainã Brito!</h1>
+<h2>Em transição de carrereira para a area de Tecnologia da Informação.</h2>
+  
+  * 🎓 Cursando Análise e Desenvolvimento de Sistemas.
+  * 💻 Buscando por em pratica todos meus conhecimentos teoricos e de projetos em empresas.
 
-<!--
-**CainaBrito1/CainaBrito1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Meus conhecimentos.</h2>
+<div style="display: inline_block">
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+    <img alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  </a>
+  <a href="https://www.w3schools.com/html/">
+    <img alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  </a>
+  <a href="https://www.w3schools.com/css/">
+    <img alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  </a>
+</div>
+<h2>Atualmente estou aprendendo.</h2>
+<div style="display: inline_block">
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+    <img alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  </a>
+  <a href="https://www.servicenow.com/">
+    <img alt="js" src="https://img.shields.io/badge/Service-Now-green">
+    
+    
+  </a>
+</div>
+<h2>📧 Contatos.</h2>
+<a href="https://www.linkedin.com/in/caina-brito1">
+  <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="mailto:c-aina2000@hotmail.com">
+ <img alt="Hotmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<div style="display: inline_block">
+ 
