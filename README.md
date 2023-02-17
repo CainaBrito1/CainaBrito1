@@ -35,5 +35,10 @@
  <img alt="Hotmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <div style="display: inline_block">
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=cainabrito1&theme=swift&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=cainabrito1&theme=swift&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cainabrito1&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
  
  
