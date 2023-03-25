@@ -25,7 +25,7 @@
     <img alt="js" src="https://img.shields.io/badge/Service-Now-green">
   </a>
   <a href="https://nodejs.org/en">
-    <img alt="Nodejs" src="https://camo.githubusercontent.com/70077da818497f34c8afc64d2f4f2776a718fcca07649f2d48ad62225beb6302/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d4537454345423f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73">
+    <img alt="Nodejs" src="https://img.shields.io/badge/-NodeJs-green">
   </a>
 </div>
 <h2>📧 Contatos.</h2>
